@@ -72,7 +72,11 @@ for loading and preprocessing the data, training the model on that data, and gen
 
 #### PERFORMANCE ANALYSIS:
 ![Uploading image.png…]()
+
+
 ![Uploading image.png…]()
+
+
 
 ![image](https://github.com/tanishkagarhwal/Osteoarthirits-detection-using-knee-x-ray/assets/113787863/5eb4f381-4e2e-404a-8933-c91cc9015218)
 
