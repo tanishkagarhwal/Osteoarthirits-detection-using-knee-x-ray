@@ -71,10 +71,13 @@ The model file typically contains the code for the machine learning model itself
 for loading and preprocessing the data, training the model on that data, and generating predictions for new data.
 
 #### PERFORMANCE ANALYSIS:
-![Uploading image.png…]()
+
+![image](https://github.com/tanishkagarhwal/Osteoarthirits-detection-using-knee-x-ray/assets/113787863/6cfeb470-9cfd-4200-b3f5-aa782b7c10b8)
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/tanishkagarhwal/Osteoarthirits-detection-using-knee-x-ray/assets/113787863/31aba813-03a7-4bf0-9302-a2cd9ae3fef7)
+
 
 
 
